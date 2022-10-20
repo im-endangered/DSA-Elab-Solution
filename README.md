@@ -1,5 +1,5 @@
 # DSA-Elab-Solution
-Elab solution for SRM DLD:
+Elab solution for SRM DLD: 🏫
 
 
 Below are the questions. Please refer question number and find the file
@@ -40,4 +40,5 @@ Below are the questions. Please refer question number and find the file
 77. a new species is trying to rule the planet
 80. a permutation of integers
 81. Implement Counting Sort
+81. Implemanting binary search in cpp
 
