@@ -17,6 +17,7 @@ int main()
         vector<int> arr(n);
         for (auto &i:arr) {
             cin >> i;
+            cin >> i;
         }
 
         vector<vector<pii> > dp(n, vector<pii>(n, {0, 0}));
