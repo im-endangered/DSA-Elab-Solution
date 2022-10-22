@@ -4,9 +4,6 @@
 using namespace std;
 typedef unsigned long long ll;
 typedef pair<int, int> pii;
-void bypass(int scount[100][100],int colours[100]){
-    cout<<"1";
-}
 int main()
 {
     cin.tie(0);
