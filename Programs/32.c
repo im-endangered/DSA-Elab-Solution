@@ -1,8 +1,6 @@
 //sanam's dream came true
 #include <stdio.h>
-void create(){
-    printf("void insert(int data) struct n *next;  void insert(int data) void display(struct n *h) ");
-}
+
 int main()
 {
     int n,i;
