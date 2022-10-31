@@ -2,14 +2,14 @@
 Elab solution for SRM University DLD: 🏫
 
 
-Below are the questions. Please refer question number and find the respective file
+Below are the questions and please refer question number accordingly and find the respective file
 
-21. Umesh has n mixtures in front of him, arranged in row
-23. Saravanan with his friends going to theatre for movie.
-26. Sajid is a first year student in reputed institution
-27. Simon work with Greek squares and matrix traces.
-28. Rigesh is an electric shop owner
-29. Issac is a language teacher at a high school in Madurai
+21. Umesh has n mixtures in front of him, arranged in row,
+23. Saravanan with his friends going to theatre for movie,
+26. Sajid is a first year student in reputed institution,
+27. Simon work with Greek squares and matrix traces.,
+28. Rigesh is an electric shop owner,
+29. Issac is a language teacher at a high school in Madurai,
 31. Dr.malar is faculty, who handling data structure
 32. sanam's dream came true
 33. a long time ago, there was a desolate village in india
