@@ -1,5 +1,5 @@
 # DSA-Elab-Solution
-Elab solution for SRM DLD: 🏫
+Elab solution for SRM University DLD: 🏫
 
 
 Below are the questions. Please refer question number and find the respective file
