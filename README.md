@@ -2,7 +2,7 @@
 Elab solution for SRM DLD: 🏫
 
 
-Below are the questions. Please refer question number and find the file
+Below are the questions. Please refer question number and find the respective file
 
 21. Umesh has n mixtures in front of him, arranged in row
 23. Saravanan with his friends going to theatre for movie.
@@ -37,8 +37,8 @@ Below are the questions. Please refer question number and find the file
 70. you are given an nxn grid representing map of forest
 71. you're given a k‐ary infinite tree
 74. in a movie festival n movies will be shown
-77. a new species is trying to rule the planet
-80. a permutation of integers
+77. A new species is trying to rule the planet
+80. A permutation of integers
 81. Implement Counting Sort
 81. Implemanting binary search in cpp
 
